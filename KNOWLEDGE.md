@@ -2,6 +2,8 @@
 
 This document provides detailed information about the webhook security implementation in this repository and includes important resources for understanding webhook security best practices.
 
+Learn more [Knowledge Resources](./Knowledge.md)
+
 ## Implementation Details
 
 ### 1. Token Generation and Management
